@@ -5,7 +5,7 @@ build:
 customer:
     message: "Welcome to MyBank customer related REST APIs"
     contactDetails:
-        name: "DEV-customer- Maruti"
+        name: "Prod-customer- Maruti"
         email: "ghl_vivek@hotmail.com"
     onCallSupport:
         - 9876543210
